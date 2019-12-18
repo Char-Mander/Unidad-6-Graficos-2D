@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{5C68F63E-D0D2-1B4E-199C-C4FDB39024B0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GameAssets/Scripts/CameraFollow.cs">
+    <Files>
+      <File FileName="Assets/GameAssets/Scripts/PlayerController.cs" Line="63" Column="10" />
+      <File FileName="Assets/GameAssets/Scripts/Character2DController.cs" />
+      <File FileName="Assets/GameAssets/Scripts/Player2D.cs" />
+      <File FileName="Assets/GameAssets/Scripts/Bullet.cs" />
+      <File FileName="Assets/GameAssets/Scripts/ScrollParallax.cs" />
+      <File FileName="Assets/GameAssets/Scripts/CameraFollow.cs" Line="34" Column="76" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Unidad 6 Graficos 2D Base" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3c77a51d-f137-4bf9-9e7e-2065020b7461" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
